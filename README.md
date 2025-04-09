@@ -1,13 +1,12 @@
 # Obsidian: Cyber Glow
 
-IF YOU ARE ON VERSION 8+ PLEASE REINSTALL THE THEME, VERSIONING NUMBER HAS BEEN REVISED TO BE MORE CONSISTENT 
- 
-> ## **v2.0.2 Changelog**
-> - Fixed: On some displays certain small icon's animation don't translate properly
-> - Added: Style Settings option to disable custom theme animations #97
-> - panes not displaying properly notes and accidentally hiding portions of it when the panes are narrowed with the gutter number list disabled #99 #96
-> - the mini header signs have been updated for when gutter number list is disabled as well, properly displaying close to the header.
-> - Removed old font text 
+> ## **v2.0.5 Changelog**
+> - Added: Style Settings option to change Bullet point styles, Default Triangle, Cirlce, Square, Eye of Horus, Phase-D
+> - Added: Style Settings to disable bullets in callout
+> - Removed: Some unnecessaary transitions
+> - Optimized: SVGs for smaller file size 
+> - Added: Adapted LennZone's Enhanced File Explorer Tree
+> - Removed: Mermaid Styling due to graphical issue after a recent update
 
 ![Screenshot](https://github.com/user-attachments/assets/eca873d2-5aad-4719-a83e-d8d586d85416)
 
