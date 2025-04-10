@@ -1,6 +1,6 @@
 # Obsidian: Cyber Glow
 
-> ## **v2.0.6 Changelog**
+> ## **v2.0.6 Hotfix Changelog**
 > - Added: Style Settings option to change Bullet point styles, Default Triangle, Cirlce, Square, Eye of Horus, Phase-D
 > - Added: Style Settings to disable bullets in callout (Fixed)
 > - Removed: Some unnecessaary transitions
