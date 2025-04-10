@@ -2216,7 +2216,7 @@ li:not(.is-collapsed) .list-bullet:after, .cm-formatting-list .list-bullet:after
     text-shadow: 0 0 5px var(--bulletlist-color), 0 0 5px var(--bulletlist-color), 0 0 10px var(--bulletlist-color), 0 0 10px var(--bulletlist-color), 0 0 20px var(--bulletlist-color);
 }
 
-.CG-bulletcallout :not(.callout-content) li:not(.is-collapsed) .list-bullet:after, .CG-bulletcallout :not(.callout-content) .cm-formatting-list .list-bullet:after, .CG-bulletcallout :not(.callout-content).markdown-source-view.mod-cm6 .cm-formatting-list-ul, .CG-bulletcallout :not(.callout-content) .markdown-source-view.mod-cm6 .cm-formatting-list-ol {
+.CG-bulletcallout .callout-content li:not(.is-collapsed) .list-bullet:after, .CG-bulletcallout .callout-content .cm-formatting-list .list-bullet:after, .CG-bulletcallout .callout-content.markdown-source-view.mod-cm6 .cm-formatting-list-ul, .CG-bulletcallout .callout-content .markdown-source-view.mod-cm6 .cm-formatting-list-ol {
     color: transparent;
     text-shadow: none;
 }
