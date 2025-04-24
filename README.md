@@ -107,6 +107,7 @@ Some styles that first appeared in this CyberGlow:
 - [ChuckHarmston](https://github.com/chuckharmston), Adapted his Safari Tab expander snippet.
 - [Colin Eckert's](https://github.com/colineckert) Things 2 Theme having working minimal headers in live preview and imo useful codeblock gutter line
 - [SlRvb](https://github.com/SlRvb) Adapted ITS Theme's Callout Infoboxes, grid, Kith and captions
+- [LennZone](https://github.com/LennZone) Adapted LennZone's Enhanced File Explorer Tree
 
  > **Note**
 > Be sure to credit me by linking to this repo should you use portions or design elements of my theme.
