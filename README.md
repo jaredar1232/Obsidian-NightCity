@@ -1,4 +1,4 @@
-# Obsidian: Cyber Glow
+# Cyber Glow for Obsidian
 
 > ## **v2.0.6 Hotfix Changelog**
 > - Added: Style Settings option to change Bullet point styles, Default Triangle, Cirlce, Square, Eye of Horus, Phase-D
