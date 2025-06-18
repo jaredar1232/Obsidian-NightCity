@@ -1,12 +1,19 @@
-# Cyber Glow for Obsidian
+# NightCity for Obsidian
+
+## This theme is a modified version of CyberGlow by ThePharaohArt
+
+I while I loved a lot about CyberGlow, I found the glow too intense with too much spread making me feel like I
+had tears to blink out of my eyes. NightCity aims to adjust the glow to be less intense, and perhaps to improve
+upon the colors. TBD, just fiddling with it for now.
 
 > ## **v2.0.6 Hotfix Changelog**
-> - Added: Style Settings option to change Bullet point styles, Default Triangle, Cirlce, Square, Eye of Horus, Phase-D
-> - Added: Style Settings to disable bullets in callout (Fixed)
-> - Removed: Some unnecessaary transitions
-> - Optimized: SVGs for smaller file size 
-> - Added: Adapted LennZone's Enhanced File Explorer Tree
-> - Removed: Mermaid Styling due to graphical issue after a recent update
+>
+> -   Added: Style Settings option to change Bullet point styles, Default Triangle, Cirlce, Square, Eye of Horus, Phase-D
+> -   Added: Style Settings to disable bullets in callout (Fixed)
+> -   Removed: Some unnecessaary transitions
+> -   Optimized: SVGs for smaller file size
+> -   Added: Adapted LennZone's Enhanced File Explorer Tree
+> -   Removed: Mermaid Styling due to graphical issue after a recent update
 
 ![Screenshot](https://github.com/user-attachments/assets/eca873d2-5aad-4719-a83e-d8d586d85416)
 
@@ -21,6 +28,7 @@ Light Mode
 ![Screenshot 2024-11-30 223807](https://github.com/user-attachments/assets/b5d3e983-c09a-42ed-bc6c-1795db13347c)
 
 ### Mobile View
+
 <img src= "https://github.com/user-attachments/assets/8efe98a3-61bc-4fd6-a42a-d101ac44074a" height="400">
 
 > **Note**
@@ -30,40 +38,45 @@ Would appreciate any donation if you enjoy this theme, doing this theme in my fr
 <a href="https://www.buymeacoffee.com/TheEmperorArt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=TheEmperorArt&button_colour=690ed8&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ### Optional
-- Recommended to install "Style Settings" plugin so that you may have custom checkboxes, custom background and its controls and custom stacked tab width. 
+
+-   Recommended to install "Style Settings" plugin so that you may have custom checkboxes, custom background and its controls and custom stacked tab width.
 
 ### Plugin Support
+
 No additional plugins are required to have the theme working unlike many other themes.
-- Kanban
-- Style Settings (more customizations)
-- Surfing
-- File Exporer Note Count
-- Language Tool Integration 
-- and much more
-- If a plugin doesn't look right with this theme let me know.<br>
+
+-   Kanban
+-   Style Settings (more customizations)
+-   Surfing
+-   File Exporer Note Count
+-   Language Tool Integration
+-   and much more
+-   If a plugin doesn't look right with this theme let me know.<br>
 
 ### What to Expect
-- Completely consistent and unique design style and in dark/light mode compared to majority of themes<br>
-  
-Some styles that first appeared in this CyberGlow:
-- Adopt theme wide Accent color support for majority of the theme 
-- Unique Line Separator featuring Obsidians Logo
-  ![image](https://github.com/ArtexJay/Obsidian-CyberGlow/assets/32932497/b5381ce7-8ba0-4dbe-80d0-ea2ac235bfd2)
-- Custom headers that blend well with Canvas.
-- A single unified active line hightlight in editor
-![Screenshot 2024-11-30 234030](https://github.com/user-attachments/assets/46ed4876-084c-4fcd-9685-36a7b617c6e5)
-- Upright Stacked tabs titles for easier reading (no need to crane your neck)
-- Custom Left Sidebar toggle in Hidden Window Frame and Obsidian Frame
-- Improved stacked tabs compatibility for Custom background support
-- First theme with active highlightable panes, so you know what pane is focused on.
-<br>
 
-- Support with Style Settings
-  - Custom Background with opacity, brightness, bluryness controls
-    - Improved opacity controls compared to other themes no weird Opacity gaps not being filled in properly.
-  - Custom Stacked tabs width control
-  - Bigger and custom checkboxes for easier viewing
-  
+-   Completely consistent and unique design style and in dark/light mode compared to majority of themes<br>
+
+Some styles that first appeared in this CyberGlow:
+
+-   Adopt theme wide Accent color support for majority of the theme
+-   Unique Line Separator featuring Obsidians Logo
+    ![image](https://github.com/ArtexJay/Obsidian-CyberGlow/assets/32932497/b5381ce7-8ba0-4dbe-80d0-ea2ac235bfd2)
+-   Custom headers that blend well with Canvas.
+-   A single unified active line hightlight in editor
+    ![Screenshot 2024-11-30 234030](https://github.com/user-attachments/assets/46ed4876-084c-4fcd-9685-36a7b617c6e5)
+-   Upright Stacked tabs titles for easier reading (no need to crane your neck)
+-   Custom Left Sidebar toggle in Hidden Window Frame and Obsidian Frame
+-   Improved stacked tabs compatibility for Custom background support
+-   First theme with active highlightable panes, so you know what pane is focused on.
+    <br>
+
+-   Support with Style Settings
+    -   Custom Background with opacity, brightness, bluryness controls
+        -   Improved opacity controls compared to other themes no weird Opacity gaps not being filled in properly.
+    -   Custom Stacked tabs width control
+    -   Bigger and custom checkboxes for easier viewing
+
 ```
 - [x] checkmark
 - [?] ? for question
@@ -92,23 +105,23 @@ Some styles that first appeared in this CyberGlow:
 - [l] l for location
 - [*] * for star
 ```
-- Smooth tab and pane switching animation
-- Custom file explorer icons plus unique icon depicting which file you are viewing/editing 
-- Add custom cursive signatures (If you have the optional fonts pack installed)
-  - `<cite>Enter Name Here</cite>`
-  - `<div class= 'signature'>The Name<\div>`
-- Easily identifiable codeblocks with proper code coloring
 
+-   Smooth tab and pane switching animation
+-   Custom file explorer icons plus unique icon depicting which file you are viewing/editing
+-   Add custom cursive signatures (If you have the optional fonts pack installed)
+    -   `<cite>Enter Name Here</cite>`
+    -   `<div class= 'signature'>The Name<\div>`
+-   Easily identifiable codeblocks with proper code coloring
 
 #### Special Thanks
-- [Deathau](https://github.com/deathau), his creator of 80's Neon theme inspired the widespread glow effects now present in my theme. 
-- [Benny Guo](https://github.com/bennyxguo/Obsidian-Obsidianite), formerly Tridiamond, his Obsidianite theme was the basis, originally intended to just a minor tweak of his theme.
-- [Sailkite](https://github.com/sailKitev) on Discord - Helped me with resolve my weird CSS issues and suggested ways to streamline some things
-- [ChuckHarmston](https://github.com/chuckharmston), Adapted his Safari Tab expander snippet.
-- [Colin Eckert's](https://github.com/colineckert) Things 2 Theme having working minimal headers in live preview and imo useful codeblock gutter line
-- [SlRvb](https://github.com/SlRvb) Adapted ITS Theme's Callout Infoboxes, grid, Kith and captions
-- [LennZone](https://github.com/LennZone) Adapted LennZone's Enhanced File Explorer Tree
 
- > **Note**
+-   [Deathau](https://github.com/deathau), his creator of 80's Neon theme inspired the widespread glow effects now present in my theme.
+-   [Benny Guo](https://github.com/bennyxguo/Obsidian-Obsidianite), formerly Tridiamond, his Obsidianite theme was the basis, originally intended to just a minor tweak of his theme.
+-   [Sailkite](https://github.com/sailKitev) on Discord - Helped me with resolve my weird CSS issues and suggested ways to streamline some things
+-   [ChuckHarmston](https://github.com/chuckharmston), Adapted his Safari Tab expander snippet.
+-   [Colin Eckert's](https://github.com/colineckert) Things 2 Theme having working minimal headers in live preview and imo useful codeblock gutter line
+-   [SlRvb](https://github.com/SlRvb) Adapted ITS Theme's Callout Infoboxes, grid, Kith and captions
+-   [LennZone](https://github.com/LennZone) Adapted LennZone's Enhanced File Explorer Tree
+
+> **Note**
 > Be sure to credit me by linking to this repo should you use portions or design elements of my theme.
-
